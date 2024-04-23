@@ -1,0 +1,66 @@
+.formulario{
+    border: solid 2px #0dcad3;
+}
+
+.encabezado{
+    /*border: solid 3px violet;*/
+    box-shadow: #ffe1a6 0px 3px 6px, #ffe1a6 0px 3px 6px;
+    border-radius: 2%;
+    margin: 1%;
+}
+
+.encabezado h2{
+    text-align: center;
+}
+
+img{
+    box-shadow: rgba(34, 34, 34, 0.404) 0px 5px 15px;
+    /*border: solid 2px blue;*/
+    border-radius: 5%;
+    width: 8%;
+    margin-left: 1em;
+    margin-right: 2em;
+}
+header{
+    margin-top: 1%;
+}
+
+/*ul li {
+    margin-right: 40px;
+    display: flex;
+}*/
+
+ul li i{
+    margin-top: 4px;
+    margin: 10px;
+    margin-right: 20px;
+}
+form i{
+    margin-right: 2px;
+}
+
+.principal {
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    border-radius: 1%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 5px;
+}
+
+.principal div{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 0px 16px -8px;
+    border-radius: 3%;
+    margin: 10px;
+    height: 250px;
+    width: 20%;
+}
+
+.imgBody{
+    width: 100%;
+    
+}
+
+main{
+    text-align: center;
+}
